@@ -11,11 +11,11 @@ bots: [
           "commands": [
             {
               "title": "Command 1",
-              "description": "Description of Command 1"
+              "description": "It's new Description of Command 1"
             },
             {
               "title": "Command N",
-              "description": "Description of Command N"
+              "description": "It's new Description of Command N"
             }
           ]
         },
@@ -24,11 +24,11 @@ bots: [
           "commands": [
             {
               "title": "Personal command 1",
-              "description": "Description of Personal command 1"
+              "description": "It's new Description of Personal command 1"
             },
             {
               "title": "Personal command N",
-              "description": "Description of Personal command N"
+              "description": "It's new Description of Personal command N"
             }
           ]
         }
